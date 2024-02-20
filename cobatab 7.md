@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> COBATAB PLANTEL 7 </title>
+COBATAB PLANTEL 7
 </head>
 <body>
 <p> <b>BIENVENIDO</b></p>
